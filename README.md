@@ -8,6 +8,12 @@
 [OpenWrt DIY — 多设备固件云编译](https://jq.qq.com/?_wv=1027&k=9Sh2iNhT)
 ==============================================================================================================
 
+==============================================================================================================
+
+本Fork仅编译CM520
+
+==============================================================================================================
+
 [![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-固件下载-FFFFFF.svg)](#固件下载-) [![](https://img.shields.io/badge/-基本介绍-FFFFFF.svg)](#基本介绍-) [![](https://img.shields.io/badge/-近期更新-FFFFFF.svg)](#近期更新-) [![](https://img.shields.io/badge/-注意事项-FFFFFF.svg)](#注意事项-) [![](https://img.shields.io/badge/-小贴士-FFFFFF.svg)](#小贴士-) [![](https://img.shields.io/badge/-捐助-FFFFFF.svg)](#捐助-) [![](https://img.shields.io/badge/-鸣谢-FFFFFF.svg)](#鸣谢-)
 
 请 `耐心认真阅读完毕` 本页面，本页面包含如何提升固件下载及使用体验的内容。
